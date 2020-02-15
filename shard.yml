@@ -4,7 +4,7 @@ license: MIT
 
 dependencies:
   maxminddb:
-    github: delef/maxminddb.cr
+    github: jgillich/maxminddb.cr
     branch: master
 
 authors:
